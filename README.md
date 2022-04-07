@@ -1,7 +1,7 @@
-Repository for ***REMOVED***ing purpose
+Repository for testing purpose
 this is a new line
 
-user: ***REMOVED***
+user: ${USER}
 
-***REMOVED*** ***REMOVED***
+***REMOVED*** ${PASS}
 
