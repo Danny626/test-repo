@@ -3,7 +3,7 @@ this is a new line
 
 user: ${USER}
 
-***REMOVED*** ${PASS}
+titlePassword ${PASS}
 
 
 This is a third line for testing
